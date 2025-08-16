@@ -48,7 +48,7 @@ A full‑stack online marketplace built from scratch to practice real‑world ar
 3) ▶️ Run locally  
 - npm run dev  # nodemon  
 - npm start    # production  
-- Open: http://localhost:3000 (or the port shown in console)  
+- Open: http://localhost:8080 (or the port shown in console)  
 
 ## 🧾 Data model (high level)
 - 👤 User: name, email, hash, roles  
